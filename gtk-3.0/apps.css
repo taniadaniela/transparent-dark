@@ -190,7 +190,10 @@ ConversationListView.view.cell:selected {
     -GtkMenuItem-horizontal-padding: 6px;
 }
 
-.panel * { color: #fff; }
+.panel * { 
+	color: #fff; 
+	background-color: @transparent;
+}
 
 .composited-indicator {
     background-color: @transparent;
