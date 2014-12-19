@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=transparent
+Comment=transparent desktop theme
+Encoding=UTF-8
+
+Name[en_US]=transparent
+
+[X-GNOME-Metatheme]
+GtkTheme=transparent
+MetacityTheme=transparent
+IconTheme=elementary
+CursorTheme=DMZ-Black
+ButtonLayout=close:maximize
